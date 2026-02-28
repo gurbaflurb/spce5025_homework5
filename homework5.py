@@ -56,11 +56,5 @@ def main():
     print(f'Moon Vector: {moon_coords}')
 
 
-# Prediction formulas is slide 39
-# Something else we care about is slide 37
-
-
-
-
 if __name__ == '__main__':
     main()
